@@ -3,3 +3,4 @@ torch
 torchaudio
 transformers>=4.34
 Unidecode
+pybind11 @ git+https://github.com/tylerkahn/pybind11
